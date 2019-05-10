@@ -4,7 +4,7 @@
     {
       "status": 1,
       "name": "first",
-      "value": "2120096074748271_2120110948080117",
+      "value": "2120096074748271_2208913849199826",
       "type": "1",
       "enable": true,
       "defaultParam": "second",
@@ -19,7 +19,7 @@
     {
       "status": 1,
       "name": "first_out",
-      "value": "ca-app-pub-6235432452268399/5891002965",
+      "value": "ca-app-pub-6235432452268399/6856846062",
       "type": "2",
       "enable": true,
       "defaultParam": "third",
@@ -30,7 +30,7 @@
       "maxShowDay": 10,
       "timeAfterActive": 86400,
       "showApplovin": false
-    } ,
+    },
     {
       "status": 1,
       "name": "second",
