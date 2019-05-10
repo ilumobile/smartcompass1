@@ -1,0 +1,65 @@
+{
+  "promo": [],
+  "adsParam": [
+    {
+      "status": 1,
+      "name": "first",
+      "value": "2120096074748271_2120110948080117",
+      "type": "1",
+      "enable": true,
+      "defaultParam": "second",
+      "packageName": "",
+      "timeShow": 20000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 20,
+      "timeAfterActive": 0,
+      "showApplovin": false
+    },
+    {
+      "status": 1,
+      "name": "first_out",
+      "value": "ca-app-pub-6235432452268399/5891002965",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "third",
+      "packageName": "",
+      "timeShow": 90000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 10,
+      "timeAfterActive": 86400,
+      "showApplovin": false
+    } ,
+    {
+      "status": 1,
+      "name": "second",
+      "value": "ca-app-pub-6235432452268399/1481561657",
+      "type": "2",
+      "enable": true,
+      "defaultParam": "third",
+      "packageName": "",
+      "timeShow": 10000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0,
+      "showApplovin": true
+    },
+    {
+      "status": 1,
+      "name": "third",
+      "value": "1553000141409",
+      "type": "5",
+      "enable": true,
+      "defaultParam": "",
+      "packageName": "",
+      "timeShow": 10000,
+      "timeAfterStart": 0,
+      "countShow": 0,
+      "maxShowDay": 150,
+      "timeAfterActive": 0,
+      "showApplovin": true
+    }
+  ]
+}
