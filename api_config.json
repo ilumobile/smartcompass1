@@ -25,10 +25,10 @@
       "defaultParam": "third",
       "packageName": "",
       "timeShow": 360000,
-      "timeAfterStart": 0,
+      "timeAfterStart": 200000,
       "countShow": 0,
       "maxShowDay": 5,
-      "timeAfterActive": 86400,
+      "timeAfterActive": 200000,
       "showApplovin": false
     },
     {
