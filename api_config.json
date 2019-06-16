@@ -9,7 +9,7 @@
       "enable": true,
       "defaultParam": "second",
       "packageName": "",
-      "timeShow": 20000,
+      "timeShow": 60000,
       "timeAfterStart": 0,
       "countShow": 0,
       "maxShowDay": 20,
