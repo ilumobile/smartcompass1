@@ -19,22 +19,22 @@
     {
       "status": 1,
       "name": "first_out",
-      "value": "ca-app-pub-6235432452268399/6856846062",
+      "value": "ca-app-pub-6235432452268399/7303268272",
       "type": "2",
       "enable": true,
-      "defaultParam": "",
+      "defaultParam": "third",
       "packageName": "",
-      "timeShow": 3600000,
-      "timeAfterStart": 200000,
+      "timeShow": 360000,
+      "timeAfterStart": 200000000,
       "countShow": 0,
-      "maxShowDay": 1,
-      "timeAfterActive": 200000,
+      "maxShowDay": 3,
+      "timeAfterActive": 200000000,
       "showApplovin": false
     },
     {
       "status": 1,
       "name": "second",
-      "value": "ca-app-pub-6235432452268399/1481561657",
+      "value": "ca-app-pub-6235432452268399/7407387661",
       "type": "2",
       "enable": true,
       "defaultParam": "third",
@@ -49,7 +49,7 @@
     {
       "status": 1,
       "name": "third",
-      "value": "1553000141409",
+      "value": "1553986830236",
       "type": "5",
       "enable": true,
       "defaultParam": "",
@@ -59,7 +59,7 @@
       "countShow": 0,
       "maxShowDay": 150,
       "timeAfterActive": 0,
-      "showApplovin": true
+      "showApplovin": false
     }
   ]
 }
