@@ -3,21 +3,6 @@
   "adsParam": [
     {
       "status": 1,
-      "name": "first",
-      "value": "2120096074748271_2253035784787632",
-      "type": "1",
-      "enable": true,
-      "defaultParam": "second",
-      "packageName": "",
-      "timeShow": 60000,
-      "timeAfterStart": 0,
-      "countShow": 0,
-      "maxShowDay": 20,
-      "timeAfterActive": 0,
-      "showApplovin": false
-    },
-    {
-      "status": 1,
       "name": "first_out",
       "value": "ca-app-pub-6235432452268399/7303268272",
       "type": "2",
@@ -33,7 +18,7 @@
     },
     {
       "status": 1,
-      "name": "second",
+      "name": "first",
       "value": "ca-app-pub-6235432452268399/7407387661",
       "type": "2",
       "enable": true,
